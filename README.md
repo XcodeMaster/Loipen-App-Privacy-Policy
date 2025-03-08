@@ -1,8 +1,8 @@
-# Loipen-App-Privacy-Policy
+# ❄️ Loipen-App-Privacy-Policy
 *This Privacy Policy explains how the Loipen app collects, uses, and protects user data.*
 
 
-
+ 
 **Privacy Policy**
 
 This privacy policy applies to the Loipen app (hereby referred to as "Application") for mobile devices that was created by KidsLab (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
