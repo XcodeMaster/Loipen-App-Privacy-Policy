@@ -1,5 +1,6 @@
 # Loipen-App-Privacy-Policy
-This Privacy Policy explains how the Loipen app collects, uses, and protects user data.
+*This Privacy Policy explains how the Loipen app collects, uses, and protects user data.*
+
 
 
 **Privacy Policy**
